@@ -1,7 +1,5 @@
 # Pulse POS Starter
 
-Pulse POS is a full-stack starter project based on your requested stack and feature set:
-
 - Node.js and Express.js REST API
 - React.js frontend with reusable UI building blocks
 - JWT authentication and role-based access control
